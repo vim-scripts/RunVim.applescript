@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1738
+
+Script to launch command-line vim w/in Terminal.
+For full details & Xcode project, see http://www.fastnlight.com/runvim
+Note, must be built w/ Xcode/AppleScript Studio project. Requires InterfaceBuilder .nib bindings & Info.plist.
